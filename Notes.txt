@@ -26,6 +26,7 @@ Before processing, data from some spots, such as NSP7_0.1_T and NSP9_K, were exc
 
 Cluster analysis was performed by pheatmap package in R51
 
+
 P-values for statistical analysis were calculated by two-way t-test and q-values or adjusted p-values were obtained using BH (Benjamini and Hochberg) method
 
 
